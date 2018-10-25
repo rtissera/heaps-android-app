@@ -22,7 +22,7 @@ android {
     }
     externalNativeBuild {
         cmake {
-            path '../../heaps-android/CMakeLists.txt'
+            path '../../CMakeLists.txt'
         }
     }
 }
